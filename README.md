@@ -39,4 +39,4 @@ The `main.py` file creates an instance of the `Game` class and starts the game l
 
 ## Credits
 
-This game was created by @pandeysarvagya as a fun programming exercise. Feel free to modify and use the code for your own projects.
+This game was created by <a href="https://github.com/pandeysarvagya">@pandeysarvagya</a> as a fun programming exercise. Feel free to modify and use the code for your own projects.
